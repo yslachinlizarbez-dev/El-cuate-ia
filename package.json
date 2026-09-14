@@ -1,0 +1,13 @@
+{
+  "name": "el-cuate-la-paradita-mx",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "firebase-admin": "^13.4.0"
+  }
+}
